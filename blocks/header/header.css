@@ -1,9 +1,8 @@
 .header {
   margin: 0;
-  padding: 0;
   background-color: #1A202C;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
   display: flex;
-  padding: 20px 120px;
+  padding: 20px 160px;
 }

@@ -1,0 +1,6 @@
+.project {
+  padding: 40px 160px;
+  display: grid;
+  grid-template-columns: 740px 352px;
+  gap: 28px;
+}

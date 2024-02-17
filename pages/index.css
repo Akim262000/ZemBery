@@ -9,6 +9,14 @@
 @import url(../blocks/header/__telephone/header__telephone__paragraph.css);
 @import url(../blocks/header/__social-network/header__social-network.css);
 @import url(../blocks/header/__link/header__link.css);
+/*Project*/
+@import url(../blocks/project/project.css);
+@import url(../blocks/project/__image/project__image.css);
+@import url(../blocks/project/__title/project__title.css);
+@import url(../blocks/project/__button/project__button.css);
+@import url(../blocks/project/__line/project__line.css);
+/*Page*/
+@import url(../blocks/page/page.css);
 @import url(../vendor/normalize.css);
 
 /* * { outline: 1px solid rgb(190, 18, 61); } */
