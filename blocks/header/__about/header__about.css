@@ -1,0 +1,8 @@
+.header__about {
+  display: flex;
+  flex-direction: row;
+}
+
+p {
+  margin-right: 20px;
+}
