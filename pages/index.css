@@ -74,6 +74,20 @@
 @import url(../blocks/question/__button/question__button.css);
 @import url(../blocks/question/__description/question__description.css);
 @import url(../blocks/question/__form/question__form.css);
+/*Footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__navigation/footer__navigation.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__contact/footer__contact.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__contact-email/footer__contact-email.css);
+@import url(../blocks/footer/__paragraph/footer__paragraph.css);
+
+@import url(../blocks/prava/prava.css);
+@import url(../blocks/prava/__text/prava__text.css);
+
 
 /*Page*/
 @import url(../blocks/page/page.css);
