@@ -1,0 +1,5 @@
+.feedback__block {
+  display: grid;
+  grid-template-columns: 353px 353px 353px;
+  gap: 30px;
+}
