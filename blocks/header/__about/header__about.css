@@ -1,8 +1,7 @@
 .header__about {
   display: flex;
   flex-direction: row;
-}
-
-p {
-  margin-right: 20px;
+  align-items: flex-start;
+  border-bottom: 1px solid #6B7280;
+  padding-bottom: 10px;
 }
