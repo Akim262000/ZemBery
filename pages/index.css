@@ -18,6 +18,20 @@
 /*Sale*/
 @import url(../blocks/sale/sale.css);
 @import url(../blocks/sale/__title/sale__title.css);
+@import url(../blocks/sale/__filter/sale__filter.css);
+@import url(../blocks/sale/__button/sale__button.css);
+/*Elements*/
+@import url(../blocks/elements/elements.css);
+/*Element*/
+@import url(../blocks/element/element.css);
+@import url(../blocks/element/__image/element__image.css);
+@import url(../blocks/element/__icon/element__icon.css);
+@import url(../blocks/element/__start/element__start.css);
+@import url(../blocks/element/__title/element__title.css);
+@import url(../blocks/element/__subtitle/element__subtitle.css);
+@import url(../blocks/element/__button/element__button.css);
+@import url(../blocks/element/__sale/element__sale.css);
+@import url(../blocks/element/__paragraph/element__paragraph.css);
 /*Page*/
 @import url(../blocks/page/page.css);
 @import url(../vendor/normalize.css);

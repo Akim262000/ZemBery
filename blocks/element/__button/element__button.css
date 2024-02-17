@@ -1,0 +1,11 @@
+.element__button {
+  width: 359px;
+  height: 48px;
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background-color: #F6F8FC;
+  color: #1F2937;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
