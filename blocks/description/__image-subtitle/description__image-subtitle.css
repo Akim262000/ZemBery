@@ -1,0 +1,10 @@
+.description__image-subtitle {
+  position: relative;
+  left: 20px;
+  top: 200px;
+  width: 300px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}

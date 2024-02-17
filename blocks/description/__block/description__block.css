@@ -1,0 +1,6 @@
+.description__block {
+  display: grid;
+  grid-template-columns: 544px 256px 256px;
+  column-gap: 32px;
+  margin-top: 40px;
+}

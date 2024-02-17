@@ -1,0 +1,17 @@
+.description__text {
+  position: absolute;
+  width: 900px;
+  left: 82px;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+}
+
+.description__text-first{
+  top: 40px;
+}
+
+.description__text-second{
+  top: 300px;
+}

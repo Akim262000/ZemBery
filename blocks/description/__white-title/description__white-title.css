@@ -1,0 +1,9 @@
+.description__white-title {
+  position: absolute;
+  top: 190px;
+  left: 20px;
+  color: #1F2937;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}

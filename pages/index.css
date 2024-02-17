@@ -34,6 +34,25 @@
 @import url(../blocks/element/__button/element__button.css);
 @import url(../blocks/element/__sale/element__sale.css);
 @import url(../blocks/element/__paragraph/element__paragraph.css);
+/*Description*/
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__subtitle/description__subtitle.css);
+@import url(../blocks/description/__image/description__image.css);
+@import url(../blocks/description/__block/description__block.css);
+@import url(../blocks/description/__image-title/description__image-title.css);
+@import url(../blocks/description/__image-subtitle/description__image-subtitle.css);
+@import url(../blocks/description/__image-number/description__image-number.css);
+@import url(../blocks/description/__white/description__white.css);
+@import url(../blocks/description/__white/description__white.css);
+@import url(../blocks/description/__white-number/description__white-number.css);
+@import url(../blocks/description/__white-title/description__white-title.css);
+@import url(../blocks/description/__white-subtitle/description__white-subtitle.css);
+@import url(../blocks/description/__white-image/description__white-image.css);
+@import url(../blocks/description/__description/description__description.css);
+@import url(../blocks/description/__text/description__text.css);
+@import url(../blocks/description/__description-image/description__description-image.css);
+@import url(../blocks/description/__button/description__button.css);
 /*Page*/
 @import url(../blocks/page/page.css);
 @import url(../vendor/normalize.css);
