@@ -1,0 +1,13 @@
+.question__button {
+  width: 328px;
+  height: 48px;
+  background-color: #10b981;
+  border-radius: 8px;
+  text-align: center;
+  border-style: none;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  vertical-align: bottom;
+}

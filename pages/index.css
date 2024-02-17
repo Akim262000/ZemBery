@@ -65,7 +65,15 @@
 @import url(../blocks/feedback/__card-location/feedback__card-location.css);
 @import url(../blocks/feedback/__card-date/feedback__card-date.css);
 @import url(../blocks/feedback/__button/feedback__button.css);
-
+/*Question*/
+@import url(../blocks/question/question.css);
+@import url(../blocks/question/__logo/question__logo.css);
+@import url(../blocks/question/__title/question__title.css);
+@import url(../blocks/question/__subtitle/question__subtitle.css);
+@import url(../blocks/question/__input/question__input.css);
+@import url(../blocks/question/__button/question__button.css);
+@import url(../blocks/question/__description/question__description.css);
+@import url(../blocks/question/__form/question__form.css);
 
 /*Page*/
 @import url(../blocks/page/page.css);
