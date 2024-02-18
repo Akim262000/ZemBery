@@ -1,0 +1,9 @@
+.project__section {
+  height: 500px;
+  background-color: #10B981;
+  border-radius: 20px;
+  position: relative;
+  box-sizing: border-box;
+  padding-left: 30px;
+  padding-top: 26px;
+}

@@ -15,6 +15,11 @@
 @import url(../blocks/project/__title/project__title.css);
 @import url(../blocks/project/__button/project__button.css);
 @import url(../blocks/project/__line/project__line.css);
+@import url(../blocks/project/__section/project__section.css);
+@import url(../blocks/project/__image-background/project__image-background.css);
+@import url(../blocks/project/__subtitle/project__subtitle.css);
+@import url(../blocks/project/_link/project__link.css);
+@import url(../blocks/project/__arrow/project__arrow.css);
 /*Sale*/
 @import url(../blocks/sale/sale.css);
 @import url(../blocks/sale/__title/sale__title.css);
