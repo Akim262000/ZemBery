@@ -44,6 +44,12 @@
 @import url(../blocks/element/__button/element__button.css);
 @import url(../blocks/element/__sale/element__sale.css);
 @import url(../blocks/element/__paragraph/element__paragraph.css);
+/*Map*/
+@import url(../blocks/map/map.css);
+@import url(../blocks/map/__title/map__title.css);
+@import url(../blocks/map/__container/map__container.css);
+@import url(../blocks/map/__locations/map__locations.css);
+@import url(../blocks/map/__location/map__location.css);
 /*Description*/
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__title/description__title.css);
