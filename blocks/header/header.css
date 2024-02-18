@@ -4,5 +4,6 @@
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
   display: flex;
-  padding: 20px 160px;
+  justify-content: space-between;
+  padding: 28px 160px 20px;
 }

@@ -2,13 +2,18 @@
 @import url(../blocks/header/__info/header__info.css);
 @import url(../blocks/header/__about/header__about.css);
 @import url(../blocks/header/__navigation/header__navigation.css);
+@import url(../blocks/header/__navigation/header__navigation-link.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__telephone/header__telephone.css);
 @import url(../blocks/header/__contacts/header__contacts.css);
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/header/__telephone/header__telephone__paragraph.css);
 @import url(../blocks/header/__social-network/header__social-network.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__navigation-links/header__navigation-links.css);
 @import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__telephone/header__telephone__time.css);
+@import url(../blocks/header/__image/header__image.css);
 /*Project*/
 @import url(../blocks/project/project.css);
 @import url(../blocks/project/__image/project__image.css);

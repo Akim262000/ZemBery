@@ -1,6 +1,7 @@
 .header__contacts {
-  margin-left: 290px;
+  width: 239px;
   padding-left: 40px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
