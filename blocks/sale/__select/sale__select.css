@@ -15,4 +15,5 @@
   background-image: url(../../../image/arrow.svg);
   background-repeat: no-repeat;
   background-position: calc(100% - 16px) center;
+  font-family: "Inter Tight", sans-serif;
 }

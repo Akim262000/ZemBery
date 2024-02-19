@@ -4,9 +4,10 @@
   line-height: 24px;
   margin: 0 0 32px 0;
   color: #6b7280;
+  font-family: "Inter Tight", sans-serif;
 }
 
-b {
-  color: #1F2937;
-  font-weight: 500;
+.question__subtitle b {
+    color: #1f2937;
+    font-weight: 500;
 }

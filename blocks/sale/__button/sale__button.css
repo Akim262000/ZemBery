@@ -1,8 +1,13 @@
 .sale__button {
-  background-image: url(../../../../image/ShowAll.svg);
+  background-color: #10B981;
+  color: #FFFFFF;
   width: 134px;
   height: 40px;
   border-radius: 8px;
   border-style: none;
   margin: 0 493px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "Inter Tight", sans-serif;
 }

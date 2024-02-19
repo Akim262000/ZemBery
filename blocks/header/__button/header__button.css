@@ -5,4 +5,8 @@
   border-radius: 8px;
   color: #FFF;
   border: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "Inter Tight", sans-serif;
 }
