@@ -21,7 +21,10 @@
 /*Project*/
 @import url(../blocks/project/project.css);
 @import url(../blocks/project/__image/project__image.css);
+@import url(../blocks/project/__block/project__block.css);
 @import url(../blocks/project/__title/project__title.css);
+@import url(../blocks/project/__descriptions/project__descriptions.css);
+@import url(../blocks/project/__description/project__description.css);
 @import url(../blocks/project/__button/project__button.css);
 @import url(../blocks/project/__line/project__line.css);
 @import url(../blocks/project/__section/project__section.css);
