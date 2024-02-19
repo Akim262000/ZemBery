@@ -1,5 +1,5 @@
 .header__telephone {
   display: flex;
   align-items: center;
-  /* margin-left: 200px; */
+  box-sizing: border-box;
 }
