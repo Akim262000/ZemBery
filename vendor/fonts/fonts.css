@@ -41,7 +41,8 @@
   font-style:  normal;
   font-weight: 500;
   font-display: swap;
-  src: url("./Muller/Muller-Medium.woff2") format("woff2"),
+  src: 
+  /* url("./Muller/Muller-Medium.woff2") format("woff2"), */
        url("./Muller/Muller-Medium.woff") format("woff");
 }
 
@@ -50,6 +51,7 @@
   font-style:  normal;
   font-weight: 700;
   font-display: swap;
-  src: url("./Muller/Muller-Bold.woff2") format("woff2"),
+  src:
+   /* url("./Muller/Muller-Bold.woff2") format("woff2"), */
        url("./Muller/Muller-Bold.woff") format("woff");
 }
