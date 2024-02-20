@@ -1,6 +1,13 @@
 .project__image {
-  width: 740px;
+  max-width: 740px;
   height: 500px;
   position: absolute;
   border-radius: 20px;
+}
+
+@media (max-width: 1439px) {
+  .project__image {
+    max-width: 570px;
+    height: inherit;
+  }
 }

@@ -6,3 +6,9 @@
   width: 420px;
   padding-top: 7px;
 }
+
+@media (max-width: 1265px) {
+  .header__links {
+    width: 350px;
+  }
+}

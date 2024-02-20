@@ -10,3 +10,9 @@
 .header__navigation-link:first-child {
   color: #10B981;
 }
+
+@media (max-width: 1265px) {
+  .header__navigation-link {
+    font-size: 12px;
+  }
+}

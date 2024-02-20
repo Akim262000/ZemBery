@@ -11,3 +11,9 @@
   text-decoration: none;
   font-family: "Inter Tight", sans-serif;
 }
+
+@media (max-width: 1439px) {
+  .project__link {
+    top: 140px;
+  }
+}

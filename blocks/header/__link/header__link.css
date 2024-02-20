@@ -6,3 +6,9 @@
   font-size: 14px;
   line-height: 24px;
 }
+
+@media (max-width: 1265px) {
+  .header__link {
+    font-size: 12px;
+  }
+}

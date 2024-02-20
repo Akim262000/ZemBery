@@ -3,3 +3,12 @@
   left: 5px;
   bottom: 55px;
 }
+
+@media (max-width: 1439px) {
+  .project__image-background {
+    width: 300px;
+    height: 300px;
+    left: 12px;
+    bottom: 60px;
+  }
+}

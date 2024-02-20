@@ -5,3 +5,9 @@
   align-items: center;
   justify-content: space-between;
 }
+
+@media (max-width: 1080px) {
+  .header__contacts {
+    width: 200px;
+  }
+}
