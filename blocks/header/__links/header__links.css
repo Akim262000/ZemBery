@@ -12,3 +12,9 @@
     width: 350px;
   }
 }
+
+/* @media (max-width: 1160px) {
+  .header__links {
+    max-width: 300px;
+  }
+} */

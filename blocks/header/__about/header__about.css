@@ -11,3 +11,9 @@
     padding-bottom: 10px;
   }
 }
+
+@media (max-width: 1160px) {
+  .header__about {
+    width: 700px;
+  }
+}

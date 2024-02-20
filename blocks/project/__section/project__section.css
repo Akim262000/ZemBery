@@ -14,9 +14,17 @@
   }
 }
 
-@media (max-width: 1280px) {
+/* @media (max-width: 1280px) {
   .project__section {
     width: 570px;
     position: relative;
+  }
+} */
+
+@media (max-width: 1280px) {
+  .project__section {
+    width: 260px;
+    position: relative;
+    height: 317px;
   }
 }

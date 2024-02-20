@@ -16,3 +16,9 @@
     font-size: 12px;
   }
 }
+
+@media (max-width: 1160px) {
+  .header__navigation-link {
+    font-size: 10px;
+  }
+}

@@ -12,3 +12,9 @@
     font-size: 12px;
   }
 }
+
+@media (max-width: 1160px) {
+  .header__link {
+    line-height: 16px;
+  }
+}

@@ -11,3 +11,10 @@
     margin-top: 10px;
   }
 }
+
+@media (max-width: 1160px) {
+  .header__navigation {
+    width: 700px;
+  }
+}
+

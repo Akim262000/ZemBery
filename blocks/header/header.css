@@ -9,10 +9,3 @@
   box-sizing: border-box;
   max-width: 1440px;
 }
-
-@media (max-width: 1174px) {
-  .header {
-    /* padding-left: 100px;
-    padding-right: 100px; */
-  }
-}
