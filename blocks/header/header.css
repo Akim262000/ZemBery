@@ -6,4 +6,6 @@
   display: flex;
   justify-content: space-between;
   padding: 28px 160px 20px;
+  box-sizing: border-box;
+  width: 1440px;
 }
