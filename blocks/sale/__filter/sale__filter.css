@@ -1,4 +1,6 @@
 .sale__filter {
   display: flex;
   flex-direction: row;
+  width: 1120px;
+  margin-top: 40px;
 }

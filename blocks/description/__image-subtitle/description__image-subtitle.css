@@ -1,11 +1,12 @@
 .description__image-subtitle {
   position: relative;
   left: 20px;
-  top: 180px;
+  top: 226px;
   width: 330px;
   color: #fff;
   font-weight: 400;
   font-size: 14px;
-  line-height: 20px;
+  line-height: 19.6px;
   font-family: "Inter Tight", sans-serif;
+  margin: 0;
 }

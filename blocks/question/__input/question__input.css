@@ -2,14 +2,13 @@
   box-sizing: border-box;
   border-radius: 8px;
   border: 1px solid #D1D5DB;
-  width: 328px;
+  width: 330px;
   height: 48px;
-  padding-left: 16px;
-  padding-top: 10px;
+  padding: 12px 0 12px 16px;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  margin-right: 16px;
+  margin-right: 13px;
   color: #6B7280;
   font-family: "Inter Tight", sans-serif;
 }

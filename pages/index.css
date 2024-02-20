@@ -1,4 +1,5 @@
 @import url(../vendor/fonts/fonts.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__info/header__info.css);
@@ -11,7 +12,7 @@
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/header/__work/header__work.css);
 @import url(../blocks/header/__telephone/header__telephone__paragraph.css);
-@import url(../blocks/header/__social-network/header__social-network.css);
+@import url(../blocks/header/__social-networks/header__social-networks.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__navigation-links/header__navigation-links.css);
 @import url(../blocks/header/__navigation-link/header__navigation-link.css);
@@ -60,9 +61,11 @@
 /*Description*/
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__info/description__info.css);
 @import url(../blocks/description/__subtitle/description__subtitle.css);
 @import url(../blocks/description/__image/description__image.css);
 @import url(../blocks/description/__block/description__block.css);
+@import url(../blocks/description/__button-block/description__button-block.css);
 @import url(../blocks/description/__image-title/description__image-title.css);
 @import url(../blocks/description/__image-subtitle/description__image-subtitle.css);
 @import url(../blocks/description/__image-number/description__image-number.css);
@@ -88,6 +91,7 @@
 @import url(../blocks/feedback/__card-location/feedback__card-location.css);
 @import url(../blocks/feedback/__card-date/feedback__card-date.css);
 @import url(../blocks/feedback/__button/feedback__button.css);
+@import url(../blocks/feedback/__button-block/feedback__button-block.css);
 /*Question*/
 @import url(../blocks/question/question.css);
 @import url(../blocks/question/__logo/question__logo.css);
@@ -103,10 +107,12 @@
 @import url(../blocks/footer/__navigation/footer__navigation.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__contact/footer__contact.css);
+@import url(../blocks/footer/__time/footer__time.css);
 @import url(../blocks/footer/__title/footer__title.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__contact-email/footer__contact-email.css);
 @import url(../blocks/footer/__paragraph/footer__paragraph.css);
+@import url(../blocks/footer/__social-networks/footer__social-networks.css);
 
 @import url(../blocks/prava/prava.css);
 @import url(../blocks/prava/__text/prava__text.css);

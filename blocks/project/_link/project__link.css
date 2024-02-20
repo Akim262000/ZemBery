@@ -2,11 +2,12 @@
   color: #FFFFFF;
   font-weight: 600;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 24.2px;
   position: relative;
   margin-right: 0;
-  top: 200px;
-  left: 160px;
+  top: 196px;
+  left: 152px;
   z-index: 1;
   text-decoration: none;
+  font-family: "Inter Tight", sans-serif;
 }

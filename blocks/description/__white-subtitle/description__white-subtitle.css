@@ -1,6 +1,6 @@
 .description__white-subtitle {
   position: absolute;
-  top: 250px;
+  top: 248px;
   width: 210px;
   left: 20px;
   font-weight: 400;
@@ -8,4 +8,5 @@
   line-height: 20px;
   color: #6B7280;
   font-family: "Inter Tight", sans-serif;
+  margin: 0;
 }

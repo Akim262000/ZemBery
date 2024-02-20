@@ -2,3 +2,11 @@
   display: flex;
   flex-direction: column;
 }
+
+.footer__links-first {
+  width: 86px;
+}
+
+.footer__links-second {
+  width: 119px;
+}
