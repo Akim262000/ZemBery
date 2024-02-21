@@ -6,3 +6,9 @@
   margin-top: 24px;
   font-family: "Inter Tight", sans-serif;
 }
+
+@media (max-width: 706px) {
+  .question__description {
+    width: 270px;
+  }
+}

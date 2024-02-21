@@ -5,3 +5,11 @@
   margin: 8px 0 6px;
   font-family: "Muller", sans-serif;
 }
+
+@media (max-width: 706px) {
+  .question__button {
+    font-size: 26px;
+    line-height: 30px;
+  }
+}
+

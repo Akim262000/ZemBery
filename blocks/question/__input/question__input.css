@@ -26,3 +26,17 @@
     line-height: 20px;
   }
 }
+
+@media (max-width: 746px) {
+  .question__input {
+    width: 230px;
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+
+  .question__input:last-child {
+    margin-bottom: 0;
+  }
+}
+
