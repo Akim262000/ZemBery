@@ -10,3 +10,11 @@
   justify-content: space-around;
   }
 }
+
+@media (max-width: 1030px) {
+  .feedback__block {
+  grid-template-columns: 500px;
+  justify-content: space-around;
+  }
+}
+

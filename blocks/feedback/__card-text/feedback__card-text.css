@@ -10,6 +10,13 @@
 
 @media (max-width: 1439px) {
   .feedback__card-text {
-    max-width: 220px;
+    width: 220px;
   }
 }
+
+@media (max-width: 1030px) {
+  .feedback__card-text {
+    width: 400px;
+  }
+}
+
