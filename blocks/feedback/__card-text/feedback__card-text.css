@@ -20,3 +20,10 @@
   }
 }
 
+@media (max-width: 580px) {
+  .feedback__card-text {
+  width: 260px;
+  }
+}
+
+

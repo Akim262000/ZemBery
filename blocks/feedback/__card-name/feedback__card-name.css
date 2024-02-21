@@ -25,3 +25,11 @@
     max-width: 380px;
   }
 }
+
+@media (max-width: 580px) {
+  .feedback__card-name {
+    font-size: 15px;
+    max-width: 260px;
+  }
+}
+

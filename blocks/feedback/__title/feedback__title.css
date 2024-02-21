@@ -7,3 +7,9 @@
   margin: 0;
   font-family: "Muller", sans-serif;
 }
+
+@media (max-width: 580px) {
+  .feedback__title {
+    margin-bottom: 10px;
+  }
+}
