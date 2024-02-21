@@ -12,3 +12,11 @@
 .footer__link:last-child {
   margin-bottom: 0;
 }
+
+@media (max-width: 1130px) {
+  .footer__link {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 12px;
+  }
+}

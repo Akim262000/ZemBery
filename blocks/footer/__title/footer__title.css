@@ -7,3 +7,10 @@
   margin-bottom: 8px;
   font-family: "Inter Tight", sans-serif;
 }
+
+@media (max-width: 1130px) {
+  .footer__title {
+    font-size: 13px;
+    line-height: 20px;
+  }
+}

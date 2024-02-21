@@ -7,3 +7,10 @@
   font-family: "Inter Tight", sans-serif;
   width: 167px;
 }
+
+@media (max-width: 1130px) {
+  .footer__paragraph {
+    font-size: 13px;
+    line-height: 20px;
+  }
+}

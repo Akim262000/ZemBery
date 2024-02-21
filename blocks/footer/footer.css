@@ -8,3 +8,12 @@
   max-width: 1440px;
   width: 100%;
 }
+
+@media (max-width: 1130px) {
+  .footer {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 30px;
+  }
+}
