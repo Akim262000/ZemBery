@@ -1,6 +1,15 @@
 .description__block {
   display: grid;
-  grid-template-columns: 544px 256px 256px;
+  grid-template-columns: 544px 544px;
   column-gap: 32px;
   margin-top: 11px;
+}
+
+@media (max-width: 1439px) {
+  .description__block {
+    grid-template-rows: 348px;
+    grid-template-columns: 544px;
+    row-gap: 28px;
+    justify-content: center;
+  }
 }

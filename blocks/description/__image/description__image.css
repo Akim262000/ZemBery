@@ -1,5 +1,6 @@
 .description__image {
-  width: 544px;
+  max-width: 544px;
+  width: 100%;
   height: 348px;
   border-radius: 20px;
   position: absolute;
