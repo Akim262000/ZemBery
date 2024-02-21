@@ -9,3 +9,12 @@
     left: 67px;
   }
 }
+
+@media (max-width: 440px) {
+  .description__white-image {
+    left: 50px;
+    top: 80px;
+    width: 40px;
+  }
+}
+

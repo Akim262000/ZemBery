@@ -21,3 +21,11 @@
   }
 }
 
+@media (max-width: 440px) {
+  .description__block {
+    grid-template-columns: 290px;
+    grid-template-rows: 250px;
+  }
+}
+
+

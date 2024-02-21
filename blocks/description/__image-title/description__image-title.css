@@ -18,3 +18,17 @@
   }
 }
 
+@media (max-width: 606px) {
+  .description__image-title {
+    font-size: 12px;
+    top: 130px;
+  }
+}
+
+@media (max-width: 440px) {
+  .description__image-title {
+    top: 128px;
+  }
+}
+
+

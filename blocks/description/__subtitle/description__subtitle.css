@@ -25,3 +25,16 @@
     margin-bottom: 10px;
   }
 }
+
+@media (max-width: 540px) {
+  .description__subtitle {
+    max-width: 350px;
+  }
+}
+
+@media (max-width: 440px) {
+  .description__subtitle {
+    max-width: 250px;
+  }
+}
+

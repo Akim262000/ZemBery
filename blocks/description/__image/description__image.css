@@ -13,3 +13,9 @@
   }
 }
 
+@media (max-width: 440px) {
+  .description__image {
+    max-width: 290px;
+    object-fit: cover;
+  }
+}

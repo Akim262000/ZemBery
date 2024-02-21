@@ -18,3 +18,11 @@
     top: 224px;
   }
 }
+
+@media (max-width: 440px) {
+  .description__white-subtitle {
+    font-size: 10px;
+    width: 110px;
+  }
+}
+

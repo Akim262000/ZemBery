@@ -13,4 +13,10 @@
   }
 }
 
+@media (max-width: 440px) {
+  .description__white {
+    width: 140px;
+  }
+}
+
 

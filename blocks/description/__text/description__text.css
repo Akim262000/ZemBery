@@ -49,3 +49,13 @@
   }
 }
 
+@media (max-width: 540px) {
+  .description__text {
+    max-width: 260px;
+    height: 1200px;
+  }
+
+  .description__text-second {
+    top: 656px;
+  }
+}

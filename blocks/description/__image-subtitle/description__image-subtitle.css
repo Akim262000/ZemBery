@@ -18,3 +18,9 @@
   }
 }
 
+@media (max-width: 440px) {
+  .description__image-subtitle {
+    max-width: 256px;
+  }
+}
+

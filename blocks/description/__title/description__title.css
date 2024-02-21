@@ -26,6 +26,14 @@
 
 @media (max-width: 606px) {
   .description__title{
-    font-size: 26px;
+    font-size: 22px;
+    max-width: 340px;
   }
 }
+
+@media (max-width: 440px) {
+  .description__title {
+    max-width: 260px;
+  }
+}
+

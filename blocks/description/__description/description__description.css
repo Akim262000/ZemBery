@@ -23,3 +23,12 @@
   }
 }
 
+@media (max-width: 540px) {
+  .description__description {
+    max-width: 300px;
+    height: 980px;
+    margin:  20px auto;
+  }
+}
+
+
