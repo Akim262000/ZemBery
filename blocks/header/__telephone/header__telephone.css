@@ -2,5 +2,5 @@
   display: flex;
   align-items: center;
   box-sizing: border-box;
-  width: 275px;
+  max-width: 275px;
 }

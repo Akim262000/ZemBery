@@ -3,3 +3,11 @@
   height: 83px;
   padding-top: 17px;
 }
+
+@media (max-width: 1439px) {
+  .header__logo {
+    width: 120px;
+    margin-right: 16px;
+  }
+}
+

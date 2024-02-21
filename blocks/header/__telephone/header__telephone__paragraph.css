@@ -7,3 +7,10 @@
   font-family: "Inter Tight", sans-serif;
   letter-spacing: 2%;
 }
+
+@media (max-width: 1030px) {
+  .header__telephone__paragraph {
+    font-size: 13px;
+    line-height: 18px;
+  }
+}

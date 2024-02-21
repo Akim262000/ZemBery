@@ -6,3 +6,10 @@
   line-height: 16px;
   font-family: "Inter Tight", sans-serif;
 }
+
+@media (max-width: 1030px) {
+  .header__telephone__time {
+    font-size: 10px;
+    line-height: 13px;
+  }
+}
