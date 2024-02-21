@@ -1,5 +1,6 @@
 .header__navigation-links {
   max-width: 436px;
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }
