@@ -18,6 +18,15 @@
   }
 }
 
+@media (max-width: 710px) {
+  .sale__title {
+    font-size: 18px;
+    max-width: 270px;
+    line-height: 30px;
+    margin-bottom: 16px;
+  }
+}
+
 @media (max-width: 460px) {
   .sale__title {
     font-size: 16px;
