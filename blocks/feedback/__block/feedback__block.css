@@ -3,3 +3,10 @@
   grid-template-columns: 353px 353px 353px;
   gap: 30px;
 }
+
+@media (max-width: 1439px) {
+  .feedback__block {
+  grid-template-columns: 260px 260px 260px;
+  justify-content: space-around;
+  }
+}

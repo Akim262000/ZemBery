@@ -1,5 +1,6 @@
 .feedback__card-name {
-  width: 252px;
+  max-width: 252px;
+  width: 100%;
   font-weight: 500;
   font-size: 16px;
   line-height: 40px;
@@ -8,4 +9,12 @@
   margin-bottom: 16px;
   font-family: "Inter Tight", sans-serif;
   margin: 26px 0 0;
+}
+
+@media (max-width: 1439px) {
+  .feedback__card-name {
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 600;
+  }
 }
