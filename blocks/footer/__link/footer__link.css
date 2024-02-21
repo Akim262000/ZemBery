@@ -20,3 +20,11 @@
     margin-bottom: 12px;
   }
 }
+
+@media (max-width: 440px) {
+  .footer__link {
+    font-size: 10px;
+    line-height: 16px;
+    margin-bottom: 8px;
+  }
+}

@@ -23,14 +23,15 @@
 @media (max-width: 570px) {
   .project__line {
     width: 360px;
-    top: 38px;
+    top: 48px;
     left: 20px;
   }
 }
 
-@media (max-width: 570px) {
+@media (max-width: 440px) {
   .project__line {
     width: 260px;
-    left: 20px;
+    top: 38px;
+    left: 10px;
   }
 }

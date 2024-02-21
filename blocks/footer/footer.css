@@ -25,3 +25,10 @@
     grid-template-rows: 1fr;
   }
 }
+
+@media (max-width: 440px) {
+  .footer {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}

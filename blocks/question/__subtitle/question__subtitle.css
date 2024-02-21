@@ -22,3 +22,9 @@
   }
 }
 
+@media (max-width: 500px) {
+  .question__subtitle {
+    width: 260px;
+  }
+}
+
