@@ -5,3 +5,9 @@
   height: 40px;
   align-items: center;
 }
+
+@media (max-width: 560px) {
+  .footer__social-networks {
+    display: none;
+  }
+}

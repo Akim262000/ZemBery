@@ -15,5 +15,13 @@
     grid-template-columns: 100px 100px 100px;
     grid-template-rows: 1fr 1fr;
     row-gap: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media (max-width: 560px) {
+  .footer {
+    grid-template-rows: 1fr;
   }
 }
