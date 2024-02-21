@@ -10,3 +10,9 @@
 .footer__links-second {
   width: 119px;
 }
+
+@media (max-width: 440px) {
+  .footer__links-second {
+    width: 80px;
+  }
+}
