@@ -7,9 +7,10 @@
   position: relative;
 }
 
-@media (max-width: 1439px) {
-  .description__white{
-
+@media (max-width: 606px) {
+  .description__white {
+    width: 190px;
   }
 }
+
 

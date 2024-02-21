@@ -17,3 +17,15 @@
     font-size: 28px;
   }
 }
+
+@media (max-width: 840px) {
+  .description__title {
+    max-width: 430px;
+  }
+}
+
+@media (max-width: 606px) {
+  .description__title{
+    font-size: 26px;
+  }
+}

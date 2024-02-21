@@ -10,3 +10,11 @@
   font-family: "Inter Tight", sans-serif;
   margin: 0;
 }
+
+@media (max-width: 606px) {
+  .description__white-subtitle {
+    width: 165px;
+    font-size: 12px;
+    top: 224px;
+  }
+}

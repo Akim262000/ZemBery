@@ -33,3 +33,19 @@
     left: 20px;
   }
 }
+
+
+@media (max-width: 840px) {
+  .description__text {
+    max-width: 380px;
+  }
+
+  .description__text-first {
+    top: 30px;
+  }
+
+  .description__text-second {
+    top: 506px;
+  }
+}
+

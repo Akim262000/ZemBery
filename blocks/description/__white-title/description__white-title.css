@@ -9,3 +9,10 @@
   font-family: "Inter Tight", sans-serif;
   margin: 25px 0 0;
 }
+
+@media (max-width: 606px) {
+  .description__white-title {
+    top: 170px;
+    font-size: 12px;
+  }
+}

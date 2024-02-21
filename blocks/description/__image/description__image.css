@@ -5,3 +5,11 @@
   border-radius: 20px;
   position: absolute;
 }
+
+@media (max-width: 606px) {
+  .description__image {
+    max-width: 400px;
+    height: 250px;
+  }
+}
+

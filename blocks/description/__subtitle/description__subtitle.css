@@ -18,3 +18,10 @@
     margin-right: auto;
   }
 }
+
+@media (max-width: 840px) {
+  .description__subtitle {
+    max-width: 430px;
+    margin-bottom: 10px;
+  }
+}

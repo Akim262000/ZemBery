@@ -3,3 +3,9 @@
   top: 100px;
   left: 100px;
 }
+
+@media (max-width: 606px) {
+  .description__white-image {
+    left: 67px;
+  }
+}
