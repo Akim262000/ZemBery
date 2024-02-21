@@ -4,6 +4,14 @@
   font-weight: 500;
   font-size: 32px;
   line-height: 48px;
-  width: 813px;
+  max-width: 813px;
+  width: 100%;
   font-family: "Muller", sans-serif;
+}
+
+@media (max-width: 1439px) {
+  .sale__title {
+    font-size: 22px;
+    max-width: 600px;
+  }
 }

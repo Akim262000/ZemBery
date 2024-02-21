@@ -8,4 +8,12 @@
   padding: 21px 160px 20px;
   box-sizing: border-box;
   max-width: 1440px;
+  width: 100%;
+}
+
+@media (max-width: 1200px) {
+  .header {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
 }

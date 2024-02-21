@@ -1,17 +1,6 @@
 .header__info {
   display: flex;
   flex-direction: column;
-  width: 970px;
-}
-
-@media (max-width: 1265px) {
-  .header__info {
-    max-width: 800px;
-  }
-}
-
-@media (max-width: 1160px) {
-  .header__info {
-    max-width: 700px;
-  }
+  max-width: 970px;
+  width: 100%;
 }

@@ -10,12 +10,3 @@
   line-height: 24px;
   font-family: "Inter Tight", sans-serif;
 }
-
-@media (max-width: 1280px) {
-  .header__button {
-    font-size: 10px;
-    line-height: 20px;
-    width: 130px;
-    height: 36px;
-  }
-}

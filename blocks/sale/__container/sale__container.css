@@ -2,5 +2,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 1120px;
+  max-width: 1120px;
+  width: 100%;
+}
+
+@media (max-width: 1439px) {
+  .sale__container{
+    max-width: 700px;
+    margin: 0 auto;
+  }
 }

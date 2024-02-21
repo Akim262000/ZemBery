@@ -17,3 +17,9 @@
   background-position: calc(100% - 16px) center;
   font-family: "Inter Tight", sans-serif;
 }
+
+@media (max-width: 1439px) {
+  .sale__select {
+    margin-right: 0;
+  }
+}

@@ -1,6 +1,7 @@
-.sale__filter {
-  display: flex;
-  flex-direction: row;
-  width: 1120px;
-  margin-top: 40px;
+@media (max-width: 1439px) {
+  .sale__filter {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  } 
 }

@@ -36,6 +36,7 @@
 /*Sale*/
 @import url(../blocks/sale/sale.css);
 @import url(../blocks/sale/__title/sale__title.css);
+@import url(../blocks/sale/__filters/sale__filters.css);
 @import url(../blocks/sale/__filter/sale__filter.css);
 @import url(../blocks/sale/__button/sale__button.css);
 @import url(../blocks/sale/__select/sale__select.css);
