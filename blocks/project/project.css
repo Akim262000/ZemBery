@@ -29,3 +29,25 @@
     max-width: 758px;
   }
 }
+
+@media (max-width: 830px) {
+  .project {
+    grid-template-columns: 500px;
+    grid-template-rows: 318px 150px;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 570px) {
+  .project {
+    grid-template-columns: 400px;
+    grid-template-rows: 271px 150px;
+  }
+}
+
+@media (max-width: 440px) {
+  .project {
+    grid-template-columns: 300px;
+    grid-template-rows: 220px 100px;
+  }
+}

@@ -21,3 +21,11 @@
     max-width: 600px;
   }
 }
+
+@media (max-width: 800px) {
+  .sale__filters {
+    max-width: 265px;
+    grid-template-columns: auto;
+    margin-top: 20px;
+  }
+}

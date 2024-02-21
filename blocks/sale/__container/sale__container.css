@@ -12,3 +12,9 @@
     margin: 0 auto;
   }
 }
+
+@media (max-width: 800px) {
+  .sale__container{
+    flex-direction: column;
+  }
+}

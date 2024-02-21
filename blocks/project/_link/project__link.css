@@ -25,3 +25,29 @@
     font-size: 16px;
   }
 }
+
+@media (max-width: 830px) {
+  .project__link {
+    top: 70px;
+    left: 376px;
+    font-size: 16px;
+    position: absolute;
+  }
+}
+
+@media (max-width: 570px) {
+  .project__link {
+    top: 66px;
+    left: 306px;
+    font-size: 14px;
+    line-height: 20px;
+    width: 98px;
+  }
+}
+
+@media (max-width: 440px) {
+  .project__link {
+    top: 46px;
+    left: 196px;
+  }
+}
