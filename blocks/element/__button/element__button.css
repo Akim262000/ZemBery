@@ -9,6 +9,7 @@
   font-size: 16px;
   line-height: 24px;
   font-family: "Inter Tight", sans-serif;
+  display: block;
 }
 
 @media (max-width: 420px) {
