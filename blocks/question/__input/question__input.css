@@ -12,3 +12,17 @@
   color: #6B7280;
   font-family: "Inter Tight", sans-serif;
 }
+
+@media (max-width: 1439px) {
+  .question__input {
+    width: 250px;
+  }
+}
+
+@media (max-width: 1220px) {
+  .question__input {
+    width: 150px;
+    font-size: 13px;
+    line-height: 20px;
+  }
+}
