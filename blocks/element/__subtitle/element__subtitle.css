@@ -8,3 +8,10 @@
   font-family: "Inter Tight", sans-serif;
   margin: 1px 0 0 ;
 }
+
+@media (max-width: 440px) {
+  .element__subtitle {
+    font-size: 12px;
+    line-height: 20px;
+  }
+}

@@ -17,6 +17,14 @@
 
 @media (max-width: 800px) {
   .elements {
-    max-width: 400px;
+    max-width: 357px;
+  }
+}
+
+@media (max-width: 420px) {
+  .elements {
+    max-width: 290px;
+    grid-template-columns: 280px;
+    justify-content: center;
   }
 }

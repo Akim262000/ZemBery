@@ -7,3 +7,10 @@ line-height: 40px;
 margin: 12px 0 0;
 font-family: "Muller", sans-serif;
 }
+
+@media (max-width: 420px) {
+  .element__title {
+    font-size: 18px;
+    line-height: 30px;
+  }
+}
