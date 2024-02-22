@@ -5,7 +5,7 @@
 
 @media (max-width: 840px) {
   .description__description-image {
-    visibility: hidden;
+    display: none;
   }
 }
 

@@ -1,8 +1,8 @@
 function burgerMenu(selector) {
   let menu = document.querySelector(selector);
-  let button = menu.find(".burger__menu-button");
-  let links = menu.find(".burger__menu-link");
-  let overlay = menu.find(".burger__menu-overlay");
+  let button = document.querySelector(".burger__menu-button");
+  let links = document.querySelector(".burger__menu-link");
+  let overlay = document.querySelector(".burger__menu-overlay");
 
   button.addEventListener("click", (e) => {
     e.preventDefault();

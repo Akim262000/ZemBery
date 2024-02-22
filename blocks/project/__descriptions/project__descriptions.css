@@ -7,3 +7,9 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+@media (max-width: 440px) {
+  .project__descriptions {
+    max-width: 280px;
+  }
+}

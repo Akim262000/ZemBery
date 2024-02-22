@@ -21,6 +21,8 @@
 @media (max-width: 440px) {
   .description__image-subtitle {
     max-width: 256px;
+    font-size: 10px;
+    line-height: 14px;
   }
 }
 

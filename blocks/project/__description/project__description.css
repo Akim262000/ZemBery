@@ -23,8 +23,6 @@
 
 @media (max-width: 440px) {
   .project__description {
-    font-size: 10px;
-    line-height: 5px;
-    width: 100px;
+    font-size: 12px;
   }
 }
